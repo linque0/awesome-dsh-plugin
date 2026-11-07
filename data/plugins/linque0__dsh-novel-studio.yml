@@ -4,4 +4,5 @@ category: ui
 description:
   en: 'Novel-writing workspace for DeepSeek Harness: project library, outline, character and lore management, a rich-text editor with autosave, and writing statistics.'
   zh: 小说工坊：在 DeepSeek Harness 里管理作品库、大纲、人物与设定，带自动保存的正文编辑器与写作统计。
+icon: https://raw.githubusercontent.com/linque0/dsh-novel-studio/main/assets/icon-180.png
 tarball: https://github.com/linque0/dsh-novel-studio/releases/download/v0.2.8/linque0-dsh-novel-studio-0.2.8.tgz
